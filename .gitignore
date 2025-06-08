@@ -194,5 +194,8 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# JetBrains Rider
+*.sln
+
 # Elimina este archivo de configuracion a DB
 appsettings.json
